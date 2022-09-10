@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Compressed Interaction Graph based Framework for Muti-behavior Recommendation
 
 This repository contains TensorFlow codes and datasets for the paper.
@@ -27,6 +26,3 @@ python base_framework_origin_final.py --data tmall --gnn_layer 4
 ```
 python base_framework_samp_final.py --data ijcai
 ```
-=======
-# anonymous_rec_cigf
->>>>>>> 149ee2684ddb3e82dfc9d87f4fb17ff1b4680947
