@@ -26,3 +26,15 @@ python base_framework_origin_final.py --data tmall --gnn_layer 4
 ```
 python base_framework_samp_final.py --data ijcai
 ```
+
+## Citation
+If you want to use our codes and datasets in your research, please cite:
+```
+@inproceedings{cigf,
+  title={Compressed Interaction Graph based Framework for Multi-behavior Recommendation},
+  author={Guo, Wei and Meng, Chang and Yuan, Enming and He, Zhicheng and Guo, Huifeng and Zhang, Yingxue and Chen, Bo and Hu, Yaochen and Tang, Ruiming and Li, Xiu and others},
+  booktitle={Proceedings of the ACM Web Conference 2023},
+  pages={960--970},
+  year={2023}
+}
+```
